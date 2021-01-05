@@ -1,3 +1,5 @@
+**Does not work anymore in Minecraft 1.16**
+
 # MinecraftUsernameChanger
 Doesn't really change your username, but allows you to play with a separate username in singleplayer and some servers.
 ## NOTE: I need to check the jsonKey variable's value
@@ -12,4 +14,4 @@ Change the variable filepath to your launcher_profiles.json file in the .minecra
 Same as windows, but change the path to /home/\<user\>/.minecraft/launcher_profiles.json. Replace <user> with your username.
 
 ## Bugs
-Check if there is already a GitHub Issue for the bug, if not, create one. Then make sure you email me at palm.tree6555365@gmail.com, otherwise I may not notice.
+Check if there is already a GitHub Issues for the bug, if not, create one.
